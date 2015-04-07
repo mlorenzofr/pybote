@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+<users version='1.0'>
+ <user>
+  <nick>operator</nick>
+  <command>show</command>
+  <command>msg</command>
+  <command>onotice</command>
+  <command>kick</command>
+  <command>kickban</command>
+  <command>mode</command>
+  <command>unban</command>
+  <command>no</command>
+  <command>akick</command>
+  <command>console</command>
+  <command>help</command>
+  <command>spam</command>
+ </user>
+ <user>
+  <nick>protected_user</nick>
+  <insult>bad words</insult>
+ </user>
+ <user>
+  <nick>administrator</nick>
+  <command>akick</command>
+  <command>show</command>
+  <command>join</command>
+  <command>msg</command>
+  <command>user</command>
+  <command>onotice</command>
+  <command>kick</command>
+  <command>kickban</command>
+  <command>mode</command>
+  <command>unban</command>
+  <command>no</command>
+  <command>load</command>
+  <command>quit</command>
+  <command>ctcp</command>
+  <command>version</command>
+  <command>reload</command>
+  <command>console</command>
+  <command>help</command>
+  <command>spam</command>
+ </user>
+</users>

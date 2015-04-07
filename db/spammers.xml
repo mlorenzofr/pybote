@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+<spammers version='1.0'>
+ <spammer type='nickname'>
+  <nick>cakir47686</nick>
+  <date>22/03/2007</date>
+ </spammer>
+ <spammer type='regexp'>
+  <nick>^astsby_[0-9][0-9]</nick>
+  <date>24/02/2007</date>
+ </spammer>
+</spammers>
